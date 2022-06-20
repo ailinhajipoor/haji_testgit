@@ -1,2 +1,12 @@
-*.txt
+*.mp3
 f4/
+.idea/
+venv/
+
+__pycache__/  
+
+
+#pip freeze >esme filee morede nazar ke mamoolan requirements.txt    ro minevisan.            
+
+
+pip freeze > requirements.txt               # in dastor yani tooye in file pacage haro benevis benevis
